@@ -9,9 +9,11 @@ body {
   padding: 0;
 }
 #nav {
-width:750px;
+width:100%;
 margin:0 auto;
 list-style:none;
+height: 20px;
+background-color: white;
 }
 #nav li {
 float:left;
@@ -21,4 +23,5 @@ display:block;
 text-align:center;
 width:150px; /* fixed width */
 text-decoration:none; 
+color: black;
 }
