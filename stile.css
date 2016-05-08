@@ -26,5 +26,8 @@ display:inline;
 text-align:center;
 text-decoration:none; 
 color: black;
-
+}
+#titolo {
+	color: black;
+	text-shadow: 2px 2px gray;
 }
