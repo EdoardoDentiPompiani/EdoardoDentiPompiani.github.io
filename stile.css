@@ -3,6 +3,9 @@
 	src: url(GothamBook.eot);
 	src: local("GothamBook"), url("GothamBook.ttf") format("truetype");
 }
+html {
+	width: 100%;
+}
 body {
   background-image: url(casa-certificazione-energetica-672x351.jpg);
   background-repeat: repeat;
