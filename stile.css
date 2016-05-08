@@ -10,6 +10,7 @@ body {
   padding: 0;
   font-family: "GothamBook";
   width: 100%;
+  overflow: hidden;
 }
 #nav {
 width:100%;
