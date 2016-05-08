@@ -7,6 +7,7 @@ body {
   background-color: gray;
   margin: 0;
   padding: 0;
+  font-family: "GothamBook";
 }
 #nav {
 width:100%;
@@ -23,5 +24,5 @@ display:inline-block;
 text-align:center;
 text-decoration:none; 
 color: black;
-padding: 2% 7%;
+padding: 1% 7%;
 }
