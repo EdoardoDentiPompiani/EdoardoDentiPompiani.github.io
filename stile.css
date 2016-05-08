@@ -18,11 +18,12 @@ text-align:center;
 }
 #nav li {
 display:inline-block;
+padding: 1% 7%;
 }
 #nav a {
 display:inline;
 text-align:center;
 text-decoration:none; 
 color: black;
-padding: 1% 7%;
+
 }
