@@ -9,6 +9,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: "GothamBook";
+  width: 100%;
 }
 #nav {
 width:100%;
@@ -30,4 +31,7 @@ color: black;
 #titolo {
 	color: black;
 	text-shadow: 2px 2px gray;
+}
+#nav a:hover {
+	color: gray;
 }
