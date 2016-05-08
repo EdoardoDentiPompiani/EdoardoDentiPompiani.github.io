@@ -4,7 +4,8 @@
 	src: local("GothamBook"), url("GothamBook.ttf") format("truetype");
 }
 body {
-  background-color: gray;
+  background-image: url(casa-certificazione-energetica-672x351.jpg);
+  background-repeat: repeat;
   margin: 0;
   padding: 0;
   font-family: "GothamBook";
