@@ -12,16 +12,15 @@ body {
 width:100%;
 margin:0 auto;
 list-style:none;
-height: 20px;
 background-color: white;
+text-align:center;
 }
 #nav li {
-float:left;
+display:inline;
 }
 #nav a {
-display:block;
+display:inline-block;
 text-align:center;
-width:150px; /* fixed width */
 text-decoration:none; 
 color: black;
 }
