@@ -76,4 +76,16 @@ color: Gray;
 #img-BARCELLONA {
 	padding-top: 4%;
 }
+#ATLETICOMADRID {
+	background-image: url();
+	background-size: 100% 100%;
+	top: 60%;
+	left: 24%;
+	width: 24%;
+	height: 25%;
+	position: absolute;	
+}
+#img-ATLETICOMADRID {
+	padding-top: 4%;
+}
 	
