@@ -63,3 +63,17 @@ color: Gray;
 #img-MANCHESTERCITY {
 	padding-top: 6%;
 	padding-left: 9%;
+	}
+#BARCELLONA {
+	background-image: url();
+	background-size: 100% 100%;
+	top: 32%;
+	left: 67%;
+	width: 24%;
+	height: 25%;
+	position: absolute;
+}
+#img-BARCELLONA {
+	padding-top: 4%;
+}
+	
