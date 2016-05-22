@@ -41,3 +41,13 @@ color: Gray;
 #nav a:hover {
 	color: gray;
 }
+#nike {
+	top: 32%;
+	left: 9%;
+	width: 24%;
+	height: 25%;
+	position: absolute;
+}
+#img-nike {
+	padding-top: 4%;
+} 
