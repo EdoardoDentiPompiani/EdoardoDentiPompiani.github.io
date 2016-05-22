@@ -1,0 +1,66 @@
+@font-face {
+	font-family: "GothamBook";
+	src: url(GothamBook.eot);
+	src: local("GothamBook"), url("GothamBook.ttf") format("truetype");
+}
+html {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+body {
+  background-image: url(Trama%20sito.jpg);
+  background-repeat: repeat;
+  margin: 0;
+  padding: 0;
+  font-family: "GothamBook";
+  width: 100%;
+  overflow: hidden;
+}
+#nav {
+width:100%;
+margin:0 auto;
+list-style:none;
+background-color: white;
+text-align:center;
+}
+#nav li {
+display:inline-block;
+padding: 1% 7%;
+}
+#nav a {
+display:inline;
+text-align:center;
+text-decoration:none; 
+color: Gray;
+}
+#titolo {
+	color: White;
+	text-shadow: 2px 2px gray;
+}
+#nav a:hover {
+	color: gray;
+}
+#JUVENTUS {
+	top: 32%;
+	left: 9%;
+	width: 24%;
+	height: 25%;
+	position: absolute;
+}
+#img-JUVENTUS {
+	padding-top: 4%;
+} 
+#REALMADRID {
+	background-image: url();
+	background-size: 100% 100%;
+	top: 32%;
+	left: 38%;
+	width: 24%;
+	height: 25%;
+	position: absolute;	
+}
+#img-REALMADRID {
+	padding-top: 6%;
+	padding-left: 9%;
+}
