@@ -44,20 +44,47 @@ color: Gray;
 #nike {
 	background-image: url(Nike-Logo.jpg);
 	background-size: 100% 100%;
-	top: 20%;
+	top: 32%;
 	left: 5%;
-	width: 17%;
-	height: 18%;
+	width: 24%;
+	height: 25%;
+	position: absolute;
 }
 #adidas {
-	
+	background-image: url(adidas.png);
+	background-size: 100% 100%;
+	top: 32%;
+	left: 34%;
+	width: 24%;
+	height: 25%;
+	position: absolute;	
 }
 #puma {
-	
+	background-image: url(Puma+Logo.png);
+	background-size: 100% 100%;
+	top: 32%;
+	left: 63%;
+	width: 24%;
+	height: 25%;
+	position: absolute;
 }
 #under-armour {
-	
+	background-image: url();
+	background-size: 100% 100%;
+	background-color: white;
+	top: 32%;
+	left: 5%;
+	width: 92%;
+	height: 25%;
+	position: absolute;	
 }
 #new-balance {
-	
+	background-image: url();
+	background-size: 100% 100%;
+	background-color: white;
+	top: 60%;
+	left: 5%;
+	width: 24%;
+	height: 25%;
+	position: absolute;	
 }
