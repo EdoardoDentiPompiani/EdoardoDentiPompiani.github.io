@@ -5,6 +5,8 @@
 }
 html {
 	width: 100%;
+	margin: 0;
+	padding: 0;
 }
 body {
   background-image: url(Trama%20sito.jpg);
@@ -38,4 +40,24 @@ color: Gray;
 }
 #nav a:hover {
 	color: gray;
+}
+#nike {
+	background-image: url(Nike-Logo.jpg);
+	background-size: 100% 100%;
+	top: 20%;
+	left: 5%;
+	width: 17%;
+	height: 18%;
+}
+#adidas {
+	
+}
+#puma {
+	
+}
+#under-armour {
+	
+}
+#new-balance {
+	
 }
