@@ -49,8 +49,7 @@ color: Gray;
 	position: absolute;
 }
 #img-nike {
-	position: absolute;
-	top: 50%;
+	padding-top: 20%;
 } 
 #adidas {
 	background-image: url();
