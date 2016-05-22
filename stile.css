@@ -42,14 +42,16 @@ color: Gray;
 	color: gray;
 }
 #nike {
-	background-image: url(Logo%20nike.png);
-	background-size: 100% 100%;
 	top: 32%;
 	left: 9%;
 	width: 24%;
 	height: 25%;
 	position: absolute;
 }
+#img-nike {
+	position: absolute;
+	top: 50%;
+} 
 #adidas {
 	background-image: url();
 	background-size: 100% 100%;
