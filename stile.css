@@ -53,37 +53,49 @@ color: Gray;
 } 
 #adidas {
 	background-image: url();
-	background-size: 100% 80%;
+	background-size: 100% 100%;
 	top: 32%;
 	left: 38%;
 	width: 24%;
 	height: 25%;
 	position: absolute;	
 }
+#img-adidas {
+	padding-top: 4%;
+}
 #puma {
 	background-image: url();
-	background-size: 100% 80%;
+	background-size: 100% 100%;
 	top: 32%;
 	left: 67%;
 	width: 24%;
 	height: 25%;
 	position: absolute;
 }
+#img-puma {
+	padding-top: 4%;
+}
 #under-armour {
 	background-image: url();
-	background-size: 100% 80%;
+	background-size: 100% 100%;
 	top: 60%;
 	left: 24%;
 	width: 24%;
 	height: 25%;
 	position: absolute;	
 }
+#img-under-armour {
+	padding-top: 4%;
+}
 #new-balance {
 	background-image: url();
-	background-size: 100% 80%;
+	background-size: 100% 100%;
 	top: 60%;
 	left: 53%;
 	width: 24%;
 	height: 25%;
 	position: absolute;	
+}
+#img-new-balance {
+	padding-top: 4%;
 }
