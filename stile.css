@@ -42,28 +42,31 @@ color: Gray;
 	color: gray;
 }
 #nike {
-	background-image: url(Nike-Logo.jpg);
+	background-image: url();
 	background-size: 100% 100%;
+	background-color: white;
 	top: 32%;
-	left: 5%;
+	left: 9%;
 	width: 24%;
 	height: 25%;
 	position: absolute;
 }
 #adidas {
-	background-image: url(adidas.png);
+	background-image: url();
 	background-size: 100% 100%;
+	background-color: white;
 	top: 32%;
-	left: 34%;
+	left: 38%;
 	width: 24%;
 	height: 25%;
 	position: absolute;	
 }
 #puma {
-	background-image: url(Puma+Logo.png);
+	background-image: url();
 	background-size: 100% 100%;
+	background-color: white;
 	top: 32%;
-	left: 63%;
+	left: 67%;
 	width: 24%;
 	height: 25%;
 	position: absolute;
@@ -73,7 +76,7 @@ color: Gray;
 	background-size: 100% 100%;
 	background-color: white;
 	top: 60%;
-	left: 5%;
+	left: 97%;
 	width: 24%;
 	height: 25%;
 	position: absolute;	
