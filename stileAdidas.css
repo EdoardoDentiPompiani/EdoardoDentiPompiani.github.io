@@ -101,3 +101,14 @@ color: Gray;
 #img-CHELSEA {
 	padding-left: 19%;
 } 
+
+#BAYERLEVERKUSEN {
+	top: 70%;
+	left: 50%;
+	width: 24%;
+	height: 25%;
+	position: absolute;
+}
+#img-BAYERLEVERKUSEN {
+	padding-left: 19%;
+} 
