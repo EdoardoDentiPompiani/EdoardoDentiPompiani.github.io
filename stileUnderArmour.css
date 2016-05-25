@@ -41,3 +41,17 @@ color: Gray;
 #nav a:hover {
 	color: gray;
 }
+
+#TOTTENHAM { 
+	background-image: url();
+	background-size: 100% 100%;
+	top: 32%;
+	left: 38%;
+	width: 24%;
+	height: 25%;
+	position: absolute;	
+}
+#img-TOTTENHAM {
+	padding-top: 6%;
+	padding-left: 9%;
+	}
