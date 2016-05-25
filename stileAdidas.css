@@ -90,3 +90,14 @@ color: Gray;
 #img-MANCHESTERUNITED {
 	padding-top: 4%;
 }
+
+#CHELSEA {
+	top: 70%;
+	left: 38%;
+	width: 24%;
+	height: 25%;
+	position: absolute;
+}
+#img-CHELSEA {
+	padding-left: 19%;
+} 
