@@ -51,7 +51,7 @@ color: Gray;
 #img-JUVENTUS {
 	padding-left: 19%;
 } 
-#REALMADRID { 
+#BAYERNMUNCHEN { 
 	background-image: url();
 	background-size: 100% 100%;
 	top: 32%;
@@ -60,23 +60,12 @@ color: Gray;
 	height: 25%;
 	position: absolute;	
 }
-#img-REALMADRID {
+#img-BAYERNMUNCHEN {
 	padding-top: 6%;
 	padding-left: 9%;
 	}
 
-#BAYERNMUNCHEN {
-	background-image: url();
-	background-size: 100% 100%;
-	top: 108%;
-	left: 13%;
-	width: 24%;
-	height: 25%;
-	position: absolute;
-}
-#img-BAYERNMUNCHEN {
-	padding-top: 4%;
-}
+
 
 #MANCHESTERUNITED {
 	background-image: url();
@@ -102,15 +91,3 @@ color: Gray;
 	padding-left: 19%;
 } 
 
-#BAYERLEVERKUSEN {
-	background-image: url();
-	background-size: 100% 100%;
-	top: 70%;
-	left: 67%;
-	width: 24%;
-	height: 25%;
-	position: absolute;
-}
-#img-BAYERLEVERKUSEN {
-	padding-top: 4%;
-}
