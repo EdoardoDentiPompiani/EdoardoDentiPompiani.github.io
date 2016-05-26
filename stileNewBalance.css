@@ -78,3 +78,16 @@ color: Gray;
 #img-SIVIGLIA {
 	padding-top: 4%;
 }
+
+#CELTIC {
+	background-image: url();
+	background-size: 100% 100%;
+	top: 70%;
+	left: 67%;
+	width: 24%;
+	height: 25%;
+	position: absolute;
+}
+#img-CELTIC {
+	padding-top: 4%;
+}
