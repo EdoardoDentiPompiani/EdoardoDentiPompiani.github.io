@@ -65,3 +65,16 @@ color: Gray;
 #img-PORTO {
 	padding-top: 4%;
 }
+
+#SIVIGLIA {
+	background-image: url();
+	background-size: 100% 100%;
+	top: 70%;
+	left: 13%;
+	width: 24%;
+	height: 25%;
+	position: absolute;	
+}
+#img-SIVIGLIA {
+	padding-top: 4%;
+}
