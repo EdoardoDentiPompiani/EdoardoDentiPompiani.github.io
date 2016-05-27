@@ -50,8 +50,9 @@ color: Gray;
 }
 #img-ARSENAL {
 	padding-left: 19%;
+}
 
-#BDORTMUND {
+#LEICESTER {
 	background-image: url();
 	background-size: 100% 100%;
 	top: 32%;
@@ -60,6 +61,8 @@ color: Gray;
 	height: 25%;
 	position: absolute;
 }
-#img-BDORTMUND {
+#img-LEICESTER {
 	padding-top: 4%;
 }
+	
+
