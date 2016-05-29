@@ -53,12 +53,10 @@ color: Gray;
 	padding-left: 5%;
 } 
 #MAGLIA2 { 
-	background-image: url();
-	background-size: 100% 100%;
-	top: 32%;
+	top: 10%;
 	left: 38%;
-	width: 24%;
-	height: 25%;
+	width: 30%;
+	height: 50%;
 	position: absolute;	
 }
 #img-MAGLIA2 {
