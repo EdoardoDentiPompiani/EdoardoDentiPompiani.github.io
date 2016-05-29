@@ -25,7 +25,7 @@ background-color: white;
 text-align:center;
 }
 #nav li {
-display:inline-block;
+display:inline;
 padding: 1% 7%;
 }
 #nav a {
