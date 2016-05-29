@@ -44,7 +44,7 @@ color: Gray;
 
 #MAGLIA1 {
 	top: 10%;
-	left: 5%;
+	left: 2.5%;
 	width: 30%;
 	height: 50%;
 	position: absolute;
@@ -53,7 +53,7 @@ color: Gray;
 } 
 #MAGLIA2 { 
 	top: 10%;
-	left: 40%;
+	left: 35%;
 	width: 30%;
 	height: 50%;
 	position: absolute;	
@@ -62,7 +62,7 @@ color: Gray;
 	}
 #MAGLIA3 {
 	top: 10%;
-	left: 75%;
+	left: 67.5%;
 	width: 30%;
 	height: 50%;
 	position: absolute;
