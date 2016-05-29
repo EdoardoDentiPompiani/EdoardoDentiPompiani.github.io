@@ -41,3 +41,11 @@ color: Gray;
 #nav a:hover {
 	color: gray;
 }
+
+#MAGLIA1 {
+	top: 10%;
+	left: 2.5%;
+	width: 30%;
+	height: 50%;
+	position: absolute;
+}
