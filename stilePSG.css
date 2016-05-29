@@ -60,15 +60,14 @@ color: Gray;
 	position: absolute;	
 }
 #img-MAGLIA2 {
+	padding-top: 6%;
 	padding-left: 9%;
 	}
 #MAGLIA3 {
-	background-image: url();
-	background-size: 100% 100%;
-	top: 32%;
+	top: 10%;
 	left: 67%;
-	width: 24%;
-	height: 25%;
+	width: 30%;
+	height: 50%;
 	position: absolute;
 }
 #img-MAGLIA3 {
