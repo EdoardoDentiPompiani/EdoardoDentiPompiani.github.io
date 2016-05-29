@@ -41,3 +41,39 @@ color: Gray;
 #nav a:hover {
 	color: gray;
 }
+
+#MAGLIA1 {
+	top: 32%;
+	left: 9%;
+	width: 24%;
+	height: 25%;
+	position: absolute;
+}
+#img-MAGLIA1 {
+	padding-left: 19%;
+} 
+#MAGLIA2 { 
+	background-image: url();
+	background-size: 100% 100%;
+	top: 32%;
+	left: 38%;
+	width: 24%;
+	height: 25%;
+	position: absolute;	
+}
+#img-MAGLIA2 {
+	padding-top: 6%;
+	padding-left: 9%;
+	}
+#MAGLIA3 {
+	background-image: url();
+	background-size: 100% 100%;
+	top: 32%;
+	left: 67%;
+	width: 24%;
+	height: 25%;
+	position: absolute;
+}
+#img-MAGLIA3 {
+	padding-top: 4%;
+}
