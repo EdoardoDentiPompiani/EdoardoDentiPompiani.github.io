@@ -1,0 +1,68 @@
+@font-face {
+	font-family: "GothamBook";
+	src: url(GothamBook.eot);
+	src: local("GothamBook"), url("GothamBook.ttf") format("truetype");
+}
+html {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+body {
+  background-image: url(Trama%20sito.jpg);
+  background-repeat: repeat;
+  margin: 0;
+  padding: 0;
+  font-family: "GothamBook";
+  width: 100%;
+  overflow: hidden;
+}
+#nav {
+width:100%;
+margin:0 auto;
+list-style:none;
+background-color: white;
+text-align:center;
+}
+#nav li {
+display:inline-block;
+padding: 1% 7%;
+}
+#nav a {
+display:inline;
+text-align:center;
+text-decoration:none; 
+color: Gray;
+}
+#titolo {
+	color: White;
+	text-shadow: 2px 2px gray;
+}
+#nav a:hover {
+	color: gray;
+}
+
+#MAGLIA1 {
+	top: 20%;
+	left: 2.5%;
+	width: 20%;
+	height: 50%;
+	position: absolute;
+}
+
+#MAGLIA2 {
+	top: 20%;
+	left: 25%;
+	width: 50%;
+	height: 50%;
+	position: absolute;
+}
+
+#MAGLIA3  {
+	top: 20%;
+	left: 77.5%;
+	width: 20%;
+	height: 50%;
+	position: absolute;
+}
+ 
