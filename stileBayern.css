@@ -70,9 +70,10 @@ color: Gray;
 	top: 80%;
 	left: 5%;
 	width:90%;
-	height:110%;
+	height:30%;
 	position: absolute;
 	color: Black;
 	background-color: White;
+	font-family: "GothamBook";
 }
  
