@@ -68,11 +68,12 @@ color: Gray;
 
 #PARAGRAFO {
 	top: 80%;
-	left:2,5%;
-	width:95%;
+	left: 10%;
+	width:80%;
 	height:110%;
 	position: absolute;
-	color: White;
+	color: Black;
 	text-shadow: 2px 2px gray;
+	background-color: White;
 }
  
