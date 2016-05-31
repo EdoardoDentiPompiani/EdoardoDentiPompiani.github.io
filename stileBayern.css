@@ -65,4 +65,14 @@ color: Gray;
 	height: 50%;
 	position: absolute;
 }
+
+#PARAGRAFO {
+	top: 80%;
+	left:2,5%;
+	width:95%;
+	height:110%;
+	position: absolute;
+	color: White;
+	text-shadow: 2px 2px gray;
+}
  
