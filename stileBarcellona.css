@@ -66,5 +66,13 @@ color: Gray;
 	position: absolute;
 }
  
-Status API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Contact Help
+#PARAGRAFO {
+	top: 80%;
+	left: 5%;
+	width:90%;
+	height:30%;
+	position: absolute;
+	color: Black;
+	background-color: White;
+	font-family: "Verdana";
+}
