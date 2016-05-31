@@ -58,8 +58,8 @@ color: Gray;
 	height: 50%;
 	position: absolute;	
 }
-#img-MAGLIA2 {
-	}
+
+
 #MAGLIA3 {
 	top: 20%;
 	left: 67.5%;
@@ -67,5 +67,16 @@ color: Gray;
 	height: 50%;
 	position: absolute;
 }
-#img-MAGLIA3 {
+
+#PARAGRAFO {
+	top: 80%;
+	left: 5%;
+	width:90%;
+	height:30%;
+	position: absolute;
+	color: Black;
+	background-color: White;
+	font-family: "Verdana";
 }
+
+
